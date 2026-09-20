@@ -118,7 +118,4 @@ agent and prints what it learned at the end.
   disk between runs in this simple version, so every `practice` or
   `live` session starts fresh.
 
-## License
-
-MIT — see [`LICENSE`](LICENSE). Not a medical device; a hackathon
-prototype only.
+## Not a medical device; a hackathon prototype only.
