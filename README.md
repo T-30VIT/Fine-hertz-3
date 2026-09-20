@@ -3,7 +3,7 @@
 **A heart monitor that learns when to watch closely — and when it's
 safe to save the battery.**
 
-Built for [hackathon name] · Team [team name]
+Built for Heartz & Waves · Team Fine Hertz
 
 ---
 
